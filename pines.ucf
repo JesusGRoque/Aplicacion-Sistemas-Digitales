@@ -1,0 +1,5 @@
+net "a" loc="p7";
+net "b" loc="p9";
+net "c" loc="p11";
+net "d" loc="p14";
+net "y" loc="p123";
