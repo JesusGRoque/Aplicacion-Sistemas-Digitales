@@ -1,4 +1,4 @@
-# ALU
+# Diseño de ALU con operaciones aritméticas y lógicas
 
 Diseño de una una ALU que realiza dos operaciones aritméticas (suma, resta, comparador) y cuatro operaciones lógicas (AND, OR, XOR, NOT) entre dos cantidades binarias de 2 bits cada una (A1,A0; B1,B0).
 
