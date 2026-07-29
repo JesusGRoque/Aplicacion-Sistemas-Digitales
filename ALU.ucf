@@ -1,0 +1,16 @@
+
+
+	net "A1" loc = "p124";
+	net "A0" loc = "p127";
+	net "B1" loc = "p132";
+	net "B0" loc = "p134";
+	
+	net "Ss" loc = "p140";
+	net "Sr" loc = "p142";
+	net "Sc" loc = "p144";
+	
+	net "Za" loc = "p10";
+	net "Zb" loc = "p12";
+	net "Zc" loc = "p15";
+	net "Zd" loc = "p17";
+	net "Ze" loc = "p22";
