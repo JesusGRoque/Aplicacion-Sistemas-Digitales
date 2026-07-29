@@ -1,0 +1,12 @@
+net "y(3)" loc="p124";
+net "y(2)" loc="p127";
+net "y(1)" loc="p132";
+net "y(0)" loc="p134";
+
+net "display(6)" loc="p2";
+net "display(5)" loc="p6";
+net "display(4)" loc="p8";
+net "display(3)" loc="p10";
+net "display(2)" loc="p12";
+net "display(1)" loc="p15";
+net "display(0)" loc="p17";
