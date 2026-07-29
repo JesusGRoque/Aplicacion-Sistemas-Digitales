@@ -1,0 +1,11 @@
+net "W" loc="p124";
+net "X" loc="p127";
+net "Y" loc="p132";
+net "Z" loc="p134";
+net "a" loc="p2";
+net "b" loc="p6";
+net "c" loc="p8";
+net "d" loc="p10";
+net "e" loc="p12";
+net "f" loc="p15";
+net "g" loc="p17";
